@@ -1,0 +1,14 @@
+[
+  {
+    "id": "solo-dynasty",
+    "name": "Solo Dynasty (Jokowi)",
+    "description": "Political dynasty centered around Joko Widodo, 7th President of Indonesia",
+    "rootEntityId": "jokowi-001"
+  },
+  {
+    "id": "cendana-dynasty",
+    "name": "Cendana Dynasty (Prabowo/Suharto)",
+    "description": "Political dynasty linked to the Suharto family and Prabowo Subianto",
+    "rootEntityId": "prabowo-001"
+  }
+]

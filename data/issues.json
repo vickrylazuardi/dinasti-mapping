@@ -1,0 +1,94 @@
+[
+  {
+    "id": "issue-001",
+    "relationshipId": "rel-jokowi-gibran",
+    "title": "VP Candidacy Age Limit Controversy",
+    "description": "Constitutional Court adjusted age requirement enabling Gibran's VP candidacy, raising widespread nepotism concerns. The court chief justice is Jokowi's brother-in-law.",
+    "type": "negative",
+    "score": -8,
+    "date": "2023-10-16",
+    "sourceUrl": "https://www.bbc.com/news/world-asia-67174065"
+  },
+  {
+    "id": "issue-002",
+    "relationshipId": "rel-jokowi-gibran",
+    "title": "Solo Mayor Election Fast-Track",
+    "description": "Gibran's rapid rise from businessman to Solo mayor candidate within months raised questions about political dynasticism.",
+    "type": "negative",
+    "score": -6,
+    "date": "2020-09-23",
+    "sourceUrl": "https://www.thejakartapost.com/news/2020/09/23/gibran-wins-solo-mayoral-race.html"
+  },
+  {
+    "id": "issue-003",
+    "relationshipId": "rel-jokowi-gibran",
+    "title": "Infrastructure Development in Solo",
+    "description": "Gibran continued Jokowi's infrastructure-focused governance style during his tenure as Solo mayor, receiving positive reviews.",
+    "type": "positive",
+    "score": 4,
+    "date": "2022-06-15"
+  },
+  {
+    "id": "issue-004",
+    "relationshipId": "rel-jokowi-psi",
+    "title": "PSI Consistent Support for Jokowi Agenda",
+    "description": "PSI consistently supported Jokowi's legislative agenda in parliament including the omnibus law.",
+    "type": "positive",
+    "score": 6,
+    "date": "2022-03-01"
+  },
+  {
+    "id": "issue-005",
+    "relationshipId": "rel-jokowi-psi",
+    "title": "PSI Leadership Controversy",
+    "description": "PSI's close association with Jokowi raised concerns about independence and democratic party governance.",
+    "type": "negative",
+    "score": -3,
+    "date": "2023-01-15"
+  },
+  {
+    "id": "issue-006",
+    "relationshipId": "rel-jokowi-bahlil",
+    "title": "Controversial Mining Permits",
+    "description": "Bahlil's ministry issued mining permits that critics linked to political patronage networks within Jokowi's coalition.",
+    "type": "negative",
+    "score": -5,
+    "date": "2023-08-20"
+  },
+  {
+    "id": "issue-007",
+    "relationshipId": "rel-jokowi-bahlil",
+    "title": "Energy Transition Initiatives",
+    "description": "Bahlil promoted renewable energy transition policies aligned with Jokowi's international climate commitments.",
+    "type": "positive",
+    "score": 3,
+    "date": "2023-11-10"
+  },
+  {
+    "id": "issue-008",
+    "relationshipId": "rel-jokowi-listyo",
+    "title": "Police Neutrality Concerns",
+    "description": "Listyo Sigit's appointment and subsequent actions during 2024 election raised concerns about police neutrality in favor of Jokowi-backed candidates.",
+    "type": "negative",
+    "score": -7,
+    "date": "2024-01-20"
+  },
+  {
+    "id": "issue-009",
+    "relationshipId": "rel-prabowo-gerindra",
+    "title": "Gerindra Election Victory 2024",
+    "description": "Gerindra successfully backed Prabowo's presidential campaign, winning the 2024 election decisively.",
+    "type": "positive",
+    "score": 9,
+    "date": "2024-02-14"
+  },
+  {
+    "id": "issue-010",
+    "relationshipId": "rel-prabowo-hashim",
+    "title": "Campaign Financing Support",
+    "description": "Hashim provided significant financial backing for Prabowo's presidential campaigns across multiple election cycles.",
+    "type": "positive",
+    "score": 7,
+    "date": "2024-01-01"
+  }
+]

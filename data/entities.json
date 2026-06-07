@@ -1,0 +1,82 @@
+[
+  {
+    "id": "jokowi-001",
+    "name": "Joko Widodo",
+    "type": "person",
+    "dynasty": "solo-dynasty",
+    "level": 0,
+    "description": "7th President of Indonesia (2014-2024), former Mayor of Solo and Governor of Jakarta"
+  },
+  {
+    "id": "gibran-001",
+    "name": "Gibran Rakabuming",
+    "type": "person",
+    "dynasty": "solo-dynasty",
+    "level": 1,
+    "description": "Vice President of Indonesia (2024-present), former Mayor of Solo, eldest son of Jokowi"
+  },
+  {
+    "id": "kaesang-001",
+    "name": "Kaesang Pangarep",
+    "type": "person",
+    "dynasty": "solo-dynasty",
+    "level": 1,
+    "description": "Chairman of PSI (2022-2024), youngest son of Jokowi, entrepreneur"
+  },
+  {
+    "id": "psi-001",
+    "name": "PSI",
+    "type": "party",
+    "dynasty": "solo-dynasty",
+    "level": 1,
+    "description": "Partai Solidaritas Indonesia - political party closely associated with Jokowi's political circle"
+  },
+  {
+    "id": "bahlil-001",
+    "name": "Bahlil Lahadalia",
+    "type": "person",
+    "dynasty": "solo-dynasty",
+    "level": 1,
+    "description": "Minister of Energy and Mineral Resources, Golkar politician allied with Jokowi"
+  },
+  {
+    "id": "listyo-001",
+    "name": "Listyo Sigit Prabowo",
+    "type": "person",
+    "dynasty": "solo-dynasty",
+    "level": 1,
+    "description": "Chief of Indonesian National Police (2021-2024), appointed by Jokowi"
+  },
+  {
+    "id": "prabowo-001",
+    "name": "Prabowo Subianto",
+    "type": "person",
+    "dynasty": "cendana-dynasty",
+    "level": 0,
+    "description": "8th President of Indonesia (2024-present), former military general, former son-in-law of Suharto"
+  },
+  {
+    "id": "gerindra-001",
+    "name": "Gerindra",
+    "type": "party",
+    "dynasty": "cendana-dynasty",
+    "level": 1,
+    "description": "Partai Gerakan Indonesia Raya - political party founded and chaired by Prabowo Subianto"
+  },
+  {
+    "id": "hashim-001",
+    "name": "Hashim Djojohadikusumo",
+    "type": "person",
+    "dynasty": "cendana-dynasty",
+    "level": 1,
+    "description": "Billionaire businessman, younger brother of Prabowo, key financial backer"
+  },
+  {
+    "id": "didit-001",
+    "name": "Didit Hediprasetyo",
+    "type": "person",
+    "dynasty": "cendana-dynasty",
+    "level": 1,
+    "description": "Fashion designer, son of Prabowo Subianto"
+  }
+]

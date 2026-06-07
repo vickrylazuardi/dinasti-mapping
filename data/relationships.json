@@ -1,0 +1,65 @@
+[
+  {
+    "id": "rel-jokowi-gibran",
+    "sourceId": "jokowi-001",
+    "targetId": "gibran-001",
+    "type": "family",
+    "label": "Father → Son"
+  },
+  {
+    "id": "rel-jokowi-kaesang",
+    "sourceId": "jokowi-001",
+    "targetId": "kaesang-001",
+    "type": "family",
+    "label": "Father → Son"
+  },
+  {
+    "id": "rel-jokowi-psi",
+    "sourceId": "jokowi-001",
+    "targetId": "psi-001",
+    "type": "political",
+    "label": "Political Backing"
+  },
+  {
+    "id": "rel-kaesang-psi",
+    "sourceId": "kaesang-001",
+    "targetId": "psi-001",
+    "type": "political",
+    "label": "Party Chairman"
+  },
+  {
+    "id": "rel-jokowi-bahlil",
+    "sourceId": "jokowi-001",
+    "targetId": "bahlil-001",
+    "type": "appointment",
+    "label": "Ministerial Appointment"
+  },
+  {
+    "id": "rel-jokowi-listyo",
+    "sourceId": "jokowi-001",
+    "targetId": "listyo-001",
+    "type": "appointment",
+    "label": "Police Chief Appointment"
+  },
+  {
+    "id": "rel-prabowo-gerindra",
+    "sourceId": "prabowo-001",
+    "targetId": "gerindra-001",
+    "type": "political",
+    "label": "Party Founder & Chairman"
+  },
+  {
+    "id": "rel-prabowo-hashim",
+    "sourceId": "prabowo-001",
+    "targetId": "hashim-001",
+    "type": "family",
+    "label": "Brother"
+  },
+  {
+    "id": "rel-prabowo-didit",
+    "sourceId": "prabowo-001",
+    "targetId": "didit-001",
+    "type": "family",
+    "label": "Father → Son"
+  }
+]
